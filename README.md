@@ -6,7 +6,7 @@ A fully responsive landing page for Mangalam HDPE Pipes built using **vanilla HT
 
 You can view the live version of the project here:
 
-🔗 Live Site: https://your-live-link.com  
+🔗 Live Site: https://mangalam-hdpe.netlify.app/ 
 
 
 ## 1. Design & Reference
