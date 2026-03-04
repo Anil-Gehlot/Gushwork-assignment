@@ -11,7 +11,7 @@ You can view the live version of the project here:
 
 ## 1. Design & Reference
 
-- Figma file: `https://www.figma.com/design/DOv07H7C2tA5UrVLhmfwfW/Gushwork-Assignment?node-id=490-8785&t=Z0PPuWCdxPbNLcSw-1`
+- Figma file: https://www.figma.com/design/DOv07H7C2tA5UrVLhmfwfW/Gushwork-Assignment?node-id=490-8785&t=Z0PPuWCdxPbNLcSw-1
 - The page layout, typography, colors, spacing, and interactions are implemented to closely match the design at desktop, tablet, and mobile breakpoints.
 
 Main sections:
